@@ -3,8 +3,9 @@ header {
   justify-content: center;
   align-items: center;
   padding: 1.5rem 1rem;
-  background-color: beige;
-  border-radius: 5px;
+  background-color: black;
+ 
+  
 }
 
 ul {
@@ -23,7 +24,7 @@ li {
 
 a {
   text-decoration: none;
-  color: black;
+  color:white;
   position: relative;
   transition: 0.125s ease-in-out;
 
@@ -50,6 +51,7 @@ a {
 img{
   width: 65px;
   display: grid;
-  justify-items:baseline;
+  justify-items:baselinnone;
+  
     
 }

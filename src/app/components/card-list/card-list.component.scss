@@ -6,6 +6,7 @@
   flex-wrap: wrap;
   gap: 2rem;
   justify-content: space-between;
+  background-color: black;
 }
 
 .card {
@@ -19,7 +20,7 @@
   padding: 0;
 
   border: 1px solid #2f2f2e;
-  background-color: #fff;
+  background-color: white;
   border-radius: 5px;
   width: calc(100% / 3 - 2rem);
 
